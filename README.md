@@ -6,7 +6,7 @@ Welcome to my Capstone Projects portfolio. This repository houses complete, end-
 
 ## 📈 Featured Capstone Projects
 
-### 🎯 P1. Superstore Marketing Campaign ROI Optimization
+### 🎯 P1. Superstore Marketing - Gold Membership Campaign Analysis 
 * **Business Problem:** The regional Superstore launched multiple marketing campaigns but saw declining customer acquisition metrics and inconsistent response rates across demographic segments.
 * **Tech Stack Deployed:** Python (Pandas, Seaborn), SQL Server (Window Functions), Tableau (Interactive Dashboard).
 * **Core Solution:** Cleaned demographic customer profiles, ran exploratory data analysis to map high-value cohorts, and built an executive campaign scorecard.
