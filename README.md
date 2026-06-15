@@ -11,7 +11,7 @@ Welcome to my Capstone Projects portfolio. This repository houses complete, end-
 * **Tech Stack Deployed:** Python (Pandas, Seaborn), SQL Server (Window Functions), Tableau (Interactive Dashboard).
 * **Core Solution:** Cleaned demographic customer profiles, ran exploratory data analysis to map high-value cohorts, and built an executive campaign scorecard.
 * **Measurable Business Impact:** Pinpointed underperforming channels, providing a roadmap to potentially improve marketing conversion rates by **18.5%** and lower customer acquisition costs.
-* **👉 [Explore the Full Project Case Study & Code](./P1_Superstore_Marketing_Campaign/)**
+* **👉 [Explore the Full Project Case Study & Code](./P1_Superstore_Marketing_Campaign_Analysis/)**
 
 ---
 
